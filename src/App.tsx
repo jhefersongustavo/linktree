@@ -19,7 +19,7 @@ function App(){
             </p>
           </a>
         </section>
-        <section className="bg-pink-600 mb-4 w-full py-2 rounded-lg transition-transform hover:scale-105">
+        <section className="bg-blue-900 mb-4 w-full py-2 rounded-lg transition-transform hover:scale-105">
           <a>
             <p className="text-white">
               portfólio 
